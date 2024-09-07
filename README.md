@@ -1,11 +1,8 @@
 ![logo](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
 <h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
 <h3 align="center">A passionate full stack developer and java developer from India</h3>
-
 <img align="right" alt="coding" width="400"src="https://i.redd.it/n8agw6z2smyb1.gif">
 
-
-  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-tech-creator&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-tech-creator" /> </p>
 
 <h3 align="left">Connect with me:</h3>
